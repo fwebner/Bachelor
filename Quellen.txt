@@ -1,0 +1,34 @@
+-Nakaguchi, H. (1978): Recent Japanese Research on Three-dimensional Bluff Body Flow Relevant to Road-Vehicle Aerodynamics. In Sovran, G., Morel, T., Mason, W.T. (Eds.): 
+	Aerodynamic Drag Mechanisms of Bluff Bodies and Road Vehicles. New York: Plenum Press 227 -- 252.
+(Quader)
+
+
+
+POTENZIELL:
+
+-Nauman, Tests on Cylindrical Shapes in Axial Flow Cylinders -
+	ZWB, Tech. Berichte 1943, p. 278.
+(Zylinder)
+
+Japan Society of Mechanical Engineering, 1986, JSME Mechanical Engineers’
+Handbook A5 Fluid Engineering New Edition, Tokyo, p. 98.
+(Zylinder)
+
+FU:
+
+-reduction of bluff body drag and suppression of vortex shedding by the introduction of wavy seperation lines
+http://primo.kobv.de/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=TN_pubtecap%2ffl%2f1998%2f00000012%2f00000001%2fart00128&indx=1&recIds=TN_pubtecap%2ffl%2f1998%2f00000012%2f00000001%2fart00128&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&dscnt=0&fctN=facet_frbrgroupid&rfnGrp=frbr&scp.scps=scope%3A%28FUB%29%2Cscope%3A%28FUB_IMG_M%29%2Cscope%3A%28FUB_IMG_T%29%2Cscope%3A%28FUB_EDOC%29%2Cscope%3A%28FUB_ML_KB%29%2Cscope%3A%28BGBM%29%2Cscope%3A%28FUB_IMG_J%29%2Cscope%3A%28%22CHAR%22%29%2Cscope%3A%28FUB_IMG_P%29%2Cscope%3A%28FUB_IMG_W%29%2Cscope%3A%28FUB_SFX%29%2Cprimo_central_multiple_fe&fctV=4522873123671632235&tab=fub&dstmp=1457185484511&srt=rank&vl(boolOperator0)=AND&mode=Advanced&lastPag=&vl(1UIStartWith1)=contains&tb=t&vl(154559607UI0)=any&vl(554954771UI5)=all_items&vl(freeText0)=REDUCTION%20OF%20BLUFF-BODY%20DRAG%20AND%20SUPPRESSION%20OF%20VORTEX%20SHEDDING%20BY%20THE%20INTRODUCTION%20OF%20WAVY%20SEPARATION%20LINES&vl(154559644UI2)=creator&vid=FUB&vl(319866314UI4)=all_items&vl(freeText2)=&vl(boolOperator2)=AND&vl(154559625UI1)=cdate&frbg=4522873123671632235&frbrRecordsSource=Primo+Central&vl(boolOperator1)=AND&cs=frb&vl(690806295UI3)=all_items&vl(1UIStartWith2)=contains&lastPagIndx=2&dum=true&vl(1UIStartWith0)=contains&Submit=&vl(freeText1)=
+
+
+-Some experimental results on sphere and disk drag:
+http://primo.kobv.de/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=TN_crossref10.2514%2f3.6164&indx=1&recIds=TN_crossref10.2514%2f3.6164&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&dscnt=0&scp.scps=scope%3A%28FUB%29%2Cscope%3A%28FUB_IMG_M%29%2Cscope%3A%28FUB_IMG_T%29%2Cscope%3A%28FUB_EDOC%29%2Cscope%3A%28FUB_ML_KB%29%2Cscope%3A%28BGBM%29%2Cscope%3A%28FUB_IMG_J%29%2Cscope%3A%28%22CHAR%22%29%2Cscope%3A%28FUB_IMG_P%29%2Cscope%3A%28FUB_IMG_W%29%2Cscope%3A%28FUB_SFX%29%2Cprimo_central_multiple_fe&tab=fub&dstmp=1457186664456&srt=rank&vl(boolOperator0)=AND&mode=Advanced&&vl(1UIStartWith1)=contains&tb=t&vl(154559607UI0)=any&vl(554954771UI5)=all_items&vl(freeText0)=Some%20experimental%20results%20on%20sphere%20and%20disk%20drag&vl(319866314UI4)=all_items&vid=FUB&vl(154559644UI2)=creator&vl(freeText2)=&vl(boolOperator2)=AND&vl(154559625UI1)=cdate&frbg=&vl(boolOperator1)=AND&vl(690806295UI3)=all_items&vl(1UIStartWith2)=contains&dum=true&vl(1UIStartWith0)=contains&Submit=&vl(freeText1)=
+
+TU:
+Windjournal
+http://portal.ub.tu-berlin.de/primo_library/libweb/action/display.do?tabs=locationsTab&ct=display&fn=search&doc=tub_aleph000821117&indx=1&recIds=tub_aleph000821117&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&dscnt=0&tab=tub_all&dstmp=1457200986163&vl(freeText0)=Journal%20of%20Wind%20Engineering%20and%20Industrial%20Aerodynamics&vid=TUB&mode=Basic
+
+wind tunnel testin
+http://portal.ub.tu-berlin.de/primo_library/libweb/action/display.do?tabs=locationsTab&ct=display&fn=search&doc=tub_aleph000445066&indx=2&recIds=tub_aleph000445066&recIdxs=1&elementId=1&renderMode=poppedOut&displayMode=full&frbrVersion=&dscnt=1&fctN=facet_frbrgroupid&rfnGrp=frbr&scp.scps=scope%3A%28TUB%29%2Cscope%3A%28MAN_NL_ALL%29%2Cscope%3A%28tub_aleph%29%2Cscope%3A%28TUB_MA%29%2Cscope%3A%28TUB_DBIS%29%2Cscope%3A%28TUB_OPUS%29%2Cscope%3A%28TUB_siam%29%2Cprimo_central_multiple_fe&fctV=649962363&tab=tub_all&dstmp=1457268951648&srt=rank&mode=Basic&lastPag=&vl(850584059UI1)=all_items&tb=t&vl(freeText0)=wind%20tunnel&vid=TUB&frbg=649962363&frbrRecordsSource=Primo+Local&cs=frb&lastPagIndx=1&vl(862758594UI0)=any&dum=true&frbrSrt=date&vl(1UIStartWith0)=contains
+
+ahmed body
+http://portal.ub.tu-berlin.de/primo_library/libweb/action/display.do?frbrVersion=6&tabs=detailsTab&ct=display&fn=search&doc=TN_sciversesciencedirect_elsevierS0167-6105(12)00124-9&indx=2&recIds=TN_sciversesciencedirect_elsevierS0167-6105(12)00124-9&recIdxs=1&elementId=1&renderMode=poppedOut&displayMode=full&frbrVersion=6&dscnt=0&scp.scps=scope%3A%28TUB%29%2Cscope%3A%28MAN_NL_ALL%29%2Cscope%3A%28tub_aleph%29%2Cscope%3A%28TUB_MA%29%2Cscope%3A%28TUB_DBIS%29%2Cscope%3A%28TUB_OPUS%29%2Cscope%3A%28TUB_siam%29%2Cprimo_central_multiple_fe&frbg=&tab=tub_all&dstmp=1457269349577&srt=rank&mode=Basic&&vl(862758594UI0)=any&dum=true&vl(850584059UI1)=all_items&tb=t&vl(1UIStartWith0)=contains&vl(freeText0)=ahmed%20body%20&vid=TUB
